@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm [Ton Prénom]
+### I'm Giversy MALONGA
 - 📊 **Econometrician & Data Analyst** passionate about uncovering insights from data
 - 🐍 **Python power user** — Pandas, NumPy, SciPy, Statsmodels, Scikit-learn, you name it
 - 📈 **Excel Consultant** — Power Query, advanced formulas, VBA automation, dashboards
